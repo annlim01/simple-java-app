@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modify local project - 3rd changes");
+        System.out.println("Modify local project - 4th changes - demo poll scm");
     }
 
     public String getMessage() {
